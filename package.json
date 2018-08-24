@@ -1,0 +1,11 @@
+{
+  "name": "fantoirparser",
+  "version": "0.1.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.9.1"
+  },
+  "description": "Permet de parser le fichier FANTOIR et le découper par département dans des dossiers distincts",
+  "author": "Mgcarre"
+}

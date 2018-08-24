@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "module": "commonjs",
+        "types": [
+            "node"
+        ]
+    },
+    "files": [
+        "fantoir.ts"
+    ],
+    "include": [
+        "../node_modules/@types/node/index.d.ts"
+    ]
+}
